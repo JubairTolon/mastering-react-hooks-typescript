@@ -1,0 +1,7 @@
+body {
+  margin: auto;
+  padding: 1rem;
+  place-items: center;
+  max-width: 800px;
+  color: rgb(39, 39, 39);
+}
